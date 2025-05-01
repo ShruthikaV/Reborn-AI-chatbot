@@ -21,7 +21,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Reborn-CHatbot.git
+git clone https://github.com/ShruthikaV/Reborn-CHatbot.git
 cd Reborn-CHatbot
 ```
 
