@@ -34,7 +34,7 @@ streamlit run main.py
 ## Final Chatbot:
 
 ### 1) Login Page
-![image](https://github.com/user-attachments/assets/a063eb8d-2543-417f-b81a-94f242c4f50f)
+![image](https://github.com/user-attachments/assets/5ecec481-3239-4860-975a-69e66906e23d)
 
 ### 2) Chatbot Page
 ![image](https://github.com/user-attachments/assets/fa2dbceb-8c1e-45d8-9d58-1f2345d89888)
