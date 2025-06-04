@@ -34,11 +34,11 @@ streamlit run main.py
 ## Final Chatbot:
 
 ### 1) Login Page
-![image](https://github.com/user-attachments/assets/a01788ee-3f3f-4585-96df-eecb562ef453)
+### ![image](https://github.com/user-attachments/assets/a01788ee-3f3f-4585-96df-eecb562ef453)
 
 ### 2) Chatbot Page
-![image](https://github.com/user-attachments/assets/fa2dbceb-8c1e-45d8-9d58-1f2345d89888)
+###![image](https://github.com/user-attachments/assets/fa2dbceb-8c1e-45d8-9d58-1f2345d89888)
 
 ### 3) Available doctors for the patient
-![image](https://github.com/user-attachments/assets/9ce760ce-1763-4f9e-8c1b-9dc997c7aa1c)
+### ![image](https://github.com/user-attachments/assets/9ce760ce-1763-4f9e-8c1b-9dc997c7aa1c)
 
